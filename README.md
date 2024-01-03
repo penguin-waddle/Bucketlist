@@ -1,7 +1,16 @@
 # Bucketlist: Your Personal Travel Bucket List
 
 ## Overview
-Bucketlist is a unique iOS app designed for travel enthusiasts and explorers. It allows users to build a private list of places they wish to visit, add descriptions for each place, explore interesting nearby locations, and securely save all this information for future reference. The app combines various iOS development skills, including integrating maps in SwiftUI, storing private data securely, and handling data outside UserDefaults.
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/penguin-waddle/Bucketlist/assets/123434744/f926a07e-1b0a-40bb-952f-b015220531bd" alt="Bucketlist App Demo" width="300" />
+    </td>
+    <td>
+      Bucketlist is a unique iOS app designed for travel enthusiasts and explorers. It allows users to build a private list of places they wish to visit, add descriptions for each place, explore interesting nearby locations, and securely save all this information for future reference. The app combines various iOS development skills, including integrating maps in SwiftUI, storing private data securely, and handling data outside UserDefaults.
+    </td>
+  </tr>
+</table>
 
 ## Key Features
 - **Map Integration**: Embed maps within the app to visualize and select desired travel destinations.
@@ -34,3 +43,5 @@ Bucketlist is a unique iOS app designed for travel enthusiasts and explorers. It
 *Bucketlist was developed as part of the "100 Days of SwiftUI" course, focusing on advanced SwiftUI features, Core Data, and integration with MapKit and Core Location.*
 
 ---
+
+[Back to Main Repository](https://github.com/penguin-waddle/100-Days-of-SwiftUI)
